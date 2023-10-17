@@ -1,0 +1,5 @@
+Step1 :START
+Step2 :Read num1 and num2
+Step3 :subtract num1 and num2 and store the value in num3
+Step4 :Display num3
+Step5 :STOP
